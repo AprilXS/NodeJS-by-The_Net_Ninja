@@ -6,3 +6,4 @@ lesson-1, Introduction & Setup
 lesson-2, Node.js Basics
 lesson-3, Clients & Servers
 lesson-4, Requests & Responses
+lesson-5, NPM
